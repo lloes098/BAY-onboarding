@@ -15,7 +15,7 @@ Remix에서 스마트컨트랙트를 배포하고, Next.js + wagmi/viem으로 �
   - 내 **보유 수량** 및 **청구 가능액** 확인
   - Claim 버튼으로 바로 청구 실행
 
-## 🛠 Stack
+##  Stack
 - **Smart Contract**: Solidity (Remix, OpenZeppelin ERC1155)
 - **Frontend**: Next.js 14, TypeScript, wagmi, viem
 - **Storage**: IPFS (메타데이터/음원/커버)
